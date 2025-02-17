@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+transformers
+pdfplumber
+datasets
+pandas
+openpyxl
+fastapi
+uvicorn
+pyngrok
+gdown
